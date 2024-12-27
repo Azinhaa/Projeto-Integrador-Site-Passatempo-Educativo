@@ -1,6 +1,7 @@
 # Projeto-Integrador-Site-Passatempo-Educativo
 Projeto de alunos para uma ONG, Passatempo Educativo, de um site para divulgar seus  serviços, alunos do  Instituto Maua de Tecnologia.
-# Objetivo: Fazer um site voltado para um público adulto, com um visual alegre e festivo, sem necessidade de uma linguagem formal, visando a identidade visual da Passatempo (ver instagram - link abaixo).  A navegação será simplificada, priorizando imagens e fotos em vez de textos longos.  
+# Objetivo: 
+Fazer um site voltado para um público adulto, com um visual alegre e festivo, sem necessidade de uma linguagem formal, visando a identidade visual da Passatempo (ver instagram - link abaixo).  A navegação será simplificada, priorizando imagens e fotos em vez de textos longos.  
 # instagram do parceiro: https://www.instagram.com/passatempoeducativo/
 
 
